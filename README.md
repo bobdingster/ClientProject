@@ -1,6 +1,6 @@
 # Leveraging Social Media to Map Natural Disasters
 
-Project by Chris Johnson, Juhee Sung-Schenck, Bob Ding, and Joey Navarro
+Project by Bob Ding, Chris Johnson, Joey Navarro and Juhee Sung-Schenck 
 
 ![forrest_fire](./forrest_fire.jpg)
 
